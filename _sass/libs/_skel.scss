@@ -1,9 +1,10 @@
-// skel.scss v3.0.2-dev | (c) skel.io | MIT licensed */
+// skel.scss v3.0.1 | (c) skel.io | MIT licensed */
 
 // Vars.
 
 	/// Breakpoints.
 	/// @var {list}
+	$breakpoints: null;
 	$breakpoints: () !global;
 
 	/// Vendor prefixes.
@@ -42,8 +43,6 @@
 		'flex-shrink',
 		'flex-wrap',
 		'justify-content',
-		'object-fit',
-		'object-position',
 		'order',
 		'perspective',
 		'pointer-events',
