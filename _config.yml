@@ -1,8 +1,8 @@
-title: Hamilton
-description: A minimal and beautiful Jekyll theme best for writing and note-taking.
+title: Huang's
+description: Welcome to bosshuang's page :D
 author: Hongxiang Huang
-avatar: /logo.png
-email: crisprhhx@gmail.com
+avatar: avater.jpg
+email: crisprhhx@outlook.com
 
 plugins:
   - jekyll-seo-tag
@@ -30,15 +30,15 @@ exclude:
 # Jekyll SEO Tag (Optional)
 # =========================
 twitter:
-  username: ngzhio
+  username: cosco 
   card: summary
 logo: logo.png
 social:
-  name: Shangzhi Huang
+  name: Hongxiang Huang
   links:
-    - https://twitter.com/ngzhio
-    - https://www.facebook.com/ngzhio
-    - https://github.com/ngzhio
+    - https://twitter.com/_bunny_com_
+    - https://www.facebook.com/hongxianghuang
+    - https://github.com/satoshischubert
 google_site_verification: u4WXQl0Eu66rsQo2kRdCNx
 lang: en
 plugins:
